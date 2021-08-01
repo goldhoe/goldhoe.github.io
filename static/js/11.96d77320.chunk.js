@@ -1,0 +1,1 @@
+(this["webpackJsonpgoldhoe.finance"]=this["webpackJsonpgoldhoe.finance"]||[]).push([[11,9,10,12],{226:function(n,o){},227:function(n,o){},230:function(n,o){},231:function(n,o){},232:function(n,o){},233:function(n,o){},234:function(n,o){},237:function(n,o){}}]);
